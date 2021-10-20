@@ -11,7 +11,7 @@ Implementing expenses notes and sorting by years.
 
 ![2](https://user-images.githubusercontent.com/72853162/138032825-77404f24-47d8-46f9-a074-9c550533c661.JPG)
 
-## 3. Expenses Section - Sorted by years, including expenses chart divided by months
+## 3. Expenses Section - Filttered by years, including expenses chart divided by months
 
 ![3](https://user-images.githubusercontent.com/72853162/138032826-5535ebf1-8b98-4ef1-bb3a-016aba0e01ce.JPG)
 
