@@ -3,9 +3,16 @@ Expenses-Manager
 ### This program was created during my studies in React online course.
 Implementing expenses notes and sorting by years.
 
+## 1. Main screen - Form and Expesnes list
 
 ![1](https://user-images.githubusercontent.com/72853162/138032818-7b943ec4-b209-4765-aba5-e16b6536e0cf.JPG)
+
+## 2. Form Section - Opens dynamically on mouse click
+
 ![2](https://user-images.githubusercontent.com/72853162/138032825-77404f24-47d8-46f9-a074-9c550533c661.JPG)
+
+## 3. Expenses Section - Sorted by years 
+
 ![3](https://user-images.githubusercontent.com/72853162/138032826-5535ebf1-8b98-4ef1-bb3a-016aba0e01ce.JPG)
 
 
