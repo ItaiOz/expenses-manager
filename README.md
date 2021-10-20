@@ -3,6 +3,11 @@ Expenses-Manager
 ### This program was created during my studies in React online course.
 Implementing expenses notes and sorting by years.
 
+![1](https://user-images.githubusercontent.com/72853162/138032639-9c25a618-3095-4629-b83e-e4159eb9f1dd.JPG)
+![2](https://user-images.githubusercontent.com/72853162/138032648-bfd63eb1-f30b-43c3-b0bb-12b9eefdb8f2.JPG)
+![3](https://user-images.githubusercontent.com/72853162/138032652-4184938e-f639-4812-9d39-6244821a6b83.JPG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
