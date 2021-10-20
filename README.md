@@ -1,6 +1,6 @@
 Expenses-Manager
 
-###This program was created during my studies in React online course.
+### This program was created during my studies in React online course.
 Implementing expenses notes and sorting by years.
 
 # Getting Started with Create React App
